@@ -1,0 +1,13 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¹Ã²å°2J$0b63ab52-bede-4009-8c88-3750b0780aab
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ºÃ²å°2J$e4c1e334-aa35-4c10-8205-f1d002b2cf0e
+	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ºÃ²å°2J$7839413a-f823-4028-b851-39898216a786
+	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ºÃ²å°2J$e3541d20-bdb1-4fd1-ad25-cea6e3d3106f
+	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8»Ã²å°2J$e9f5b5dd-8526-48a1-a76f-18bb921c71e5
+	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8»Ã²å°2J$585188f9-0550-4bff-bf92-c130c57d0204
+œ
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ×©’8¼Ã²å°2J$5c388d1c-b4f2-4dba-b045-cae581924966
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š8°û¸å°2J$7306f573-b729-41e4-8593-6fa0119ae28b
+o
+java:S1481C"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿ8ÜÃ²å°2J$7f587c9b-d2bf-49a9-9747-e9c8a9110801

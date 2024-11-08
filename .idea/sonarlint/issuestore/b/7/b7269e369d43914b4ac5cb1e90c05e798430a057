@@ -1,0 +1,10 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(“¾›·8ªŸ³é°2
+]	java:S125"<This block of commented-out lines of code should be removed.(ñÿÄ¬úÿÿÿÿ8®Ÿ³é°2
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8¯Ÿ³é°2
+P
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8¯Ÿ³é°2
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8¯Ÿ³é°2
